@@ -21,7 +21,14 @@ To create a summary dataframe from the cvs file, we had to combine the two cvs f
 
 ![](Resources/PyBer_Summary_Dataframe.png)
 
-As we can see from the summary table, the average cost per fare really depended on the city type you were in.  The costs span from an average fare per ride of $24.53 (Urban city type) to a high of $34.62 (Rural city type). Few more noteworthy items is the total number of drivers and rides by city type.  We have few drivers and rides in rural city types than the urban areas.  It could be the rural areas are being underserved or the fares are long distances since it is more rural. One piece of information that would be helpful is the average distance of each ride. 
+As we can see from the summary table, the average cost per fare really depended on the city type you were in.  The costs span from an average fare per ride of $24.53 (Urban city type) to a high of $34.62 (Rural city type). Few more noteworthy items is the total number of drivers and rides by city type.  We have few drivers and rides in rural city types than the urban areas.  It could be the rural areas are being underserved or the fares are long distances since it is more rural. One piece of information that would be helpful is the average distance of each ride. It might even provide insight to look at the Total Rides/Total Drivers by city type.
+
+|City Type | Rides per Driver|
+|---------:|----------------:|
+|Rural | 1.60 |
+|Suburban | 1.28 |
+|Urban | 0.68 |
+
 
 ### Deliverable 2: A Summary DataFrame 
 

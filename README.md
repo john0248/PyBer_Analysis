@@ -17,6 +17,13 @@ As we can see from the summary table, the average cost per fare really depended 
 
 ### Deliverable 2: A Summary DataFrame 
 
+When large amount of data is collected it can sometimes be easier to view this information visually.  The second deliverable of this challenge was to provide a multiple-line chart of total fares for each city type.  There are two main functions needed during the 2nd deliverable: pivot() and resample().  After creating a resamples dataframe, we can then create a line graph in order to visualize the data.  The line graph created uses a built-in style called “fivethirtyeight”.
+
+
+![](analysis/PyBer_fare_summary.png)
+
+
+
 ## Summary: 
 
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.

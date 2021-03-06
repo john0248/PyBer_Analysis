@@ -7,6 +7,14 @@ PyBer is a python-based ride share app company.   The company has an ultimate go
 
 I used Jupyter Notebook for the python script and the following dependencies: Matplotlib and pandas.  Two cvs files were provided for the analysis: “city_data.cvs” and “ride_data.cvs”.  Both cvs files are located in the “Resources” folder.  
 
+Before we continue let’s discuss terms and how they are defined in this analysis.
+1.	City types: Urban, Rural, and Suburban
+2.	Total Drivers: Sum of drivers by each city type
+3.	Total Rides: Sum of rides by each city type
+4.	Total Fares: Sum of fares by each city type
+5.	Average fare per ride: (Total Fares/ Total Rides) by each city type
+6.	Average fare per driver: (Total Fares/ Total Drivers) by each city type
+
 ### Deliverable 1: A Summary DataFrame 
 
 To create a summary dataframe from the cvs file, we had to combine the two cvs files. This was done through python by merging on city.  After merging the files into a single dataframe, we could start aggregating the data into a summary dataframe.  The .sum() and .count() methods were used to obtain the PyBer Summary dataframe found below. 

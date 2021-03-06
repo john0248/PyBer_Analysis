@@ -44,6 +44,9 @@ When large amount of data is collected it can sometimes be easier to view this i
 
 Based on the results of our analysis, we have three recommendations for addressing any disparities among the city types. 
 
-First recommendation would be to pilot additional drivers in rural areas.  It is important to understand if ride counts are lower due to availability or just the fact there are less people wanting to ride share.   
+First recommendation would be to focus additional drivers in rural areas.  It is important to understand if ride counts are lower due to availability or just the fact there are less people wanting to ride share.  The rides per driver ratio suggest PyBer can increase drivers in this city type.   
 
+Second recommendation is to focus on opportunities in the suburban cities.  The ride costs are high compared to urban areas but the demand for rides is still good.  
+
+Third recommendation is to run specials or reduced rates in lower months like January.  January had lower fare totals in all three city types. 
 

@@ -29,6 +29,7 @@ As we can see from the summary table, the average cost per fare really depended 
 |Suburban | 1.28 |
 |Urban | 0.68 |
 
+When we look at the data this way we can see opportunities are being missed in the Rural city types. 
 
 ### Deliverable 2: A Summary DataFrame 
 
@@ -41,4 +42,8 @@ When large amount of data is collected it can sometimes be easier to view this i
 
 ## Summary: 
 
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+Based on the results of our analysis, we have three recommendations for addressing any disparities among the city types. 
+
+First recommendation would be to pilot additional drivers in rural areas.  It is important to understand if ride counts are lower due to availability or just the fact there are less people wanting to ride share.   
+
+
